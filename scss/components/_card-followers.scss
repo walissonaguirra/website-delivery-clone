@@ -1,0 +1,28 @@
+.card-followers {
+  @extend .rounded;
+  @extend .bg-primary;
+  @extend .d-flex;
+  padding: $spacer;
+}
+
+.card-followers-wrap {
+  @extend .text-center;
+  flex: 1;
+}
+
+.card-followers-wrap+.card-followers-wrap {
+  border-left: 2px solid $white;
+}
+
+.card-followers-title {
+  font-size: 1rem * 1.8;
+  font-weight: 700;
+  color: $white;
+}
+
+.card-followers-subtitle {
+  font-size: $font-size-base;
+  font-weight: 700;
+  color: $white;
+  font-family: $font-family-base;
+}

@@ -1,0 +1,8 @@
+yarn-error.log
+node_modules/
+assets/icomoon.zip
+assets/icomoon/demo-files/
+assets/icomoon/demo.html
+assets/icomoon/Read Me.txt
+assets/css/style.min.css.map
+theming-kit.html

@@ -1,0 +1,29 @@
+{
+  "name": "website-delivery-clone",
+  "version": "1.0.0",
+  "description": "Delivery - Home Delivery App Landing Page Template - Clone",
+  "scripts": {
+    "css-compile": "sass scss/style.scss:assets/css/style.min.css -s compressed",
+    "css-prefix": "postcss --replace assets/css/style.min.css --use autoprefixer --map",
+    "css-purge": "purgecss --css assets/css/style.min.css --content \"*.{html,php}\" --output assets/css/style.min.css",
+    "css-watch": "sass scss/style.scss:assets/css/style.min.css -w",
+    "css-build": "npm-run-all css-compile css-purge css-prefix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walissonaguirra/website-delivery-clone"
+  },
+  "license": "MIT",
+  "author": "Walisson Aguirra <walisson.aguirra@gmail.com> (https: //github.com/walissonaguirra)",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "postcss-cli": "^9.0.2",
+    "purgecss": "^4.1.3",
+    "sass": "^1.44.0",
+    "yarn-run-all": "^3.1.1"
+  }
+}
