@@ -7,7 +7,7 @@
 ## Sobre o projeto
 Este projeto é um clone de [Home Delivery From Stores Near You](https://preview.uideck.com/items/delivery/#h5o-21) desenvolvido com a finalidade pratica a escrita de HTML5 Semântico, seguindo as boas patricas da [WHATWG community](https://whatwg.org) e outras tecnologias com Sass ultilizando o CSS Orientado a Objeto  
 
-<p align="right">(<a href="#-website-delivery-clone">volta ao topo</a>)</p>
+<p align="right">(<a href=readme">volta ao topo</a>)</p>
 
 
 ## Construído com
@@ -16,7 +16,7 @@ Este projeto é um clone de [Home Delivery From Stores Near You](https://preview
 - Object-oriented CSS
 - SASS
 
-<p align="right">(<a href="#-website-delivery-clone">volta ao topo</a>)</p>
+<p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
 
 <!-- LICENSE -->
@@ -24,7 +24,7 @@ Este projeto é um clone de [Home Delivery From Stores Near You](https://preview
 
 Distribuído sob a licença GNU General Public License v3.0. Veja `LICENSE.txt` para mais informações.
 
-<p align="right">(<a href="#-website-delivery-clone">volta ao topo</a>)</p>
+<p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
 
 
@@ -35,4 +35,4 @@ Walisson Aguirra - walisson.aguirra@gmail.com
 
 Link do projeto: [https://github.com/walissonaguirra/website-delivery-clone](https://github.com/walissonaguirra/website-delivery-clone)
 
-<p align="right">(<a href="#-website-delivery-clones">volta ao topo</a>)</p>
+<p align="right">(<a href="#readmes">volta ao topo</a>)</p>
