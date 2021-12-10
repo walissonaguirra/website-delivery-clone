@@ -18,6 +18,11 @@ Este projeto é um clone de [Home Delivery From Stores Near You](https://preview
 
 <p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
+<!-- Google Lighthouse -->
+## Google Lighthouse
+![Google Lighthouse](google-lighthouse-print.png)
+
+<p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
 <!-- LICENSE -->
 ## License
